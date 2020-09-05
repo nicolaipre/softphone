@@ -18,6 +18,7 @@ sudo make install
 ```bash
 cd pjproject-py37/pjsip-apps/src/python
 python3 setup.py build
+
 sudo python3 setup.py install
 
 OR better:
