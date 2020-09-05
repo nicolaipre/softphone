@@ -23,7 +23,7 @@ To use the streaming capability, use an Audio Callback class that suits your nee
 You can look for functionality from other projects and create a PR to get it added to this project. 
 
 Examples:
-- [soft_phone](https://github.com/g-farrow/soft_phone) - Huge credits to gfarrow. Used some code from his project.
+- [soft_phone](https://github.com/g-farrow/soft_phone) - Huge credits to g-farrow. Used some code from his project.
 - [Payphone](https://github.com/NottingHack/PBX/blob/master/Payphone/PayPhone.py)
 - [Openphone](https://github.com/probonopd/OpenPhone)
 - [SIPCallRecordVerify](https://github.com/lukebeer/SIPCallRecordVerify)

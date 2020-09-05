@@ -176,7 +176,7 @@ class Softphone:
                 logger.info("There is no call.")
                 return
             
-            if not self.current_call.is_valid(): # Is this needed? Used by gfarrow, but might be handled already.
+            if not self.current_call.is_valid(): # Is this needed? Used by g-farrow, but might be handled already.
                 logger.info("Call has already ended.")
                 return
 
