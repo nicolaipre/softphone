@@ -5,6 +5,8 @@ To use the streaming capability, use an Audio Callback class that suits your nee
 
 See `AudioCallbacks.py` for examples.
 
+For installation instructions, click [here](INSTALL.md).
+
 ---
 ## TODO
 - [ ] Fix the slight audio lag/delay when using Audio Callbacks for relaying audio between systems.
