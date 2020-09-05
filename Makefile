@@ -9,12 +9,13 @@ clean:
 	rm -rf dist
 	rm -rf softphone.egg-info
 
-remove:
+uninstall:
 	rm /usr/local/lib/python3.6/dist-packages/softphone-0.1-py3.6.egg/EGG-INFO/PKG-INFO
 	rm /usr/local/lib/python3.6/dist-packages/softphone-0.1-py3.6.egg/EGG-INFO/SOURCES.txt
 	rm /usr/local/lib/python3.6/dist-packages/softphone-0.1-py3.6.egg/EGG-INFO/dependency_links.txt
 	rm /usr/local/lib/python3.6/dist-packages/softphone-0.1-py3.6.egg/EGG-INFO/not-zip-safe
 	rm /usr/local/lib/python3.6/dist-packages/softphone-0.1-py3.6.egg/EGG-INFO/top_level.txt
+	rm /usr/local/lib/python3.6/dist-packages/softphone-0.1-py3.6.egg/softphone.egg-link
 	rm /usr/local/lib/python3.6/dist-packages/softphone-0.1-py3.6.egg/softphone/AccountHandler.py
 	rm /usr/local/lib/python3.6/dist-packages/softphone-0.1-py3.6.egg/softphone/AudioCallbacks.py
 	rm /usr/local/lib/python3.6/dist-packages/softphone-0.1-py3.6.egg/softphone/CallHandler.py
