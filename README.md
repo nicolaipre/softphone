@@ -20,6 +20,7 @@ For installation instructions, click [here](INSTALL.md).
 - [ ] Do not force registration of both incoming and outgoing accounts. Make it optional.
 - [ ] Fix better error handling.
 - [ ] Fix error when phone hangs up before softphone does.
+- [ ] Fix error when phone is not answered and we reach voicemail. Softphone becomes unresponsive.
 - [ ] Create a [Pypi package](https://pypi.org/) to install via `pip install softphone`.
 - [ ] Add support for multiple simultaneous calls.
 
