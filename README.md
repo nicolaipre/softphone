@@ -10,6 +10,7 @@ For installation instructions, click [here](INSTALL.md).
 ---
 ## TODO
 - [ ] Fix the slight audio lag/delay when using Audio Callbacks for relaying audio between systems.
+- [ ] Check if adjusting pj thread value helps on the lag like [here](https://github.com/malarinv/pjproject/commit/2757c5553b8b05196ffc3fbbf3c09e63d2d79c89).
 - [x] Clean up the code.
 - [ ] Write documentation for all functions.
 - [x] Add proper logging.
