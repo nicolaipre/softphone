@@ -1,7 +1,9 @@
 # Softphone
-A python 3 compatible softphone built on PJSIP/PJSUA (pjproject) [fork by malarinv, branch `py37`](https://github.com/DiscordPhone/pjproject/tree/py37).
+A python 3 compatible softphone built on the [pjproject fork by malarinv, branch:py37](https://github.com/DiscordPhone/pjproject/tree/py37).
 
-To use the streaming capability, use an Audio Callback class that suits your needs. See `AudioCallbacks.py` for examples.
+To use the streaming capability, use an Audio Callback class that suits your needs. 
+
+See `AudioCallbacks.py` for examples.
 
 ---
 ## TODO
