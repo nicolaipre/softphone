@@ -27,3 +27,7 @@ git clone git@github.com:DiscordPhone/softphone.git
 python3 -m pip install -e softphone
 python3 -m pip install -r softphone/requirements.txt
 ```
+Or:
+```bash
+python3 -m pip install https://github.com/DiscordPhone/softphone/archive/master.zip -U
+```
