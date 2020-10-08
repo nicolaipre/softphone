@@ -29,5 +29,5 @@ python3 -m pip install -r softphone/requirements.txt
 ```
 Or:
 ```bash
-python3 -m pip install https://github.com/DiscordPhone/softphone/archive/master.zip -U
+python3 -m pip install https://github.com/DiscordPhone/softphone/archive/master.zip --user
 ```
